@@ -45,7 +45,7 @@ module.exports = {
   protectedRoutes: ['/Encrypted', '/Downloads', '/Memory Lane/Jalan Jalan Nobita', '/Memory Lane/Jalan Jalan Family',],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:niceduck@hi2.in',
+  email: 'mailto:niceduck77@gmail.com',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
@@ -53,7 +53,7 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/nice77duck/judas',
+      link: 'https://github.com/theniceduck/judas',
     },
   ],
 
